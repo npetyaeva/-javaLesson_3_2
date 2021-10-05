@@ -14,7 +14,7 @@ public class Main {
 }
 ```
 
-[Ссылка на код BmiService.java](https://github.com/npetyaeva/javaLesson_3_2/blob/master/src/BonusMilesService.java)
+[Ссылка на код BmiService.java](https://github.com/npetyaeva/javaLesson_3_2/blob/master/src/BmiService.java)
 
 ```java
 public class BmiService {
